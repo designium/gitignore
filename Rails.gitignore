@@ -14,3 +14,9 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
+
+# Ignore stupid Mac OSX folder file
+.DS_Store
+
+# Ignore my default folder for user upload files
+/public/uploads
